@@ -1,0 +1,28 @@
+ls  list items in current directory 
+
+ls -l    list items in current directory and show in long format to see perimissions, size, and modification date 
+
+ls -a  list all items in current directory, including hidden files 
+
+ls -F   list all items in current directory and show directories with a slash and executables with a star 
+
+ls dir  list all items in directory dir 
+
+cd dir  change directory to dir 
+cd ..   go up one directory 
+
+cd /     go to the root directory 
+
+cd ~      go to to your home directory 
+
+cd -     go to the last directory you were just in 
+
+pwd        show present working directory 
+
+mkdir dir     make directory dir 
+
+rm file      remove file 
+
+rm -r dir       remove directory dir recursively 
+
+cp file1 file2      copy file1 to file2 
